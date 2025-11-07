@@ -42,7 +42,7 @@ local Ban = {
 		[2378032589] = {Motivo = "Eu te avisei"}, -- usando hack para obter vantagem em evento
 		[5401109450] = {Motivo = "flw"}, -- P1QUENO_BISONHO exploit de armas
 		[7316484665] = {Motivo = "flw"}, -- vendendo vaga da equipe
-		[1672825547] = {Motivo = "flw"}, -- cobaia do vitor
+		[7835625303] = {Motivo = "gostosa é sua mãe, cadê a educação?"}, -- cobaia do vitor
 		[5813781045] = {Motivo = "flw"}, -- ofendendo varios jogadores e dono
 		[1599379141] = {Motivo = "flw"}, -- tentativa de raid no dc
 		[7251831547] = {Motivo = "flw"}, -- comando de esticar personagem all
