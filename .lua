@@ -3,7 +3,7 @@ local Ban = {
 
 		[1903201376] = {Motivo = "Exploit"}, -- exploit fazendo exploits pra vender/ evento halloween
 		
-		[3353792064] = {Motivo = "flw"}, -- exploit no jogo de cartas com conta secundaria
+		[7835625303] = {Motivo = "você não entra mas aqui!!!"}, -- exploit no jogo de cartas com conta secundaria
 		[2513687052] = {Motivo = "flw"}, -- doente retardado seguindo em jogo pra ficar focando
 		[5138312115] = {Motivo = "Comprovante Falso."}, -- comprovante falso
 		
