@@ -4,7 +4,7 @@ local Ban = {
 		[1903201376] = {Motivo = "Exploit"}, -- exploit fazendo exploits pra vender/ evento halloween
 		
 		[] = {Motivo = "você não entra mas aqui!!!"}, -- exploit no jogo de cartas com conta secundaria
-		[3774843185] = {Motivo = "x9 morre cedo, aqui você não entra sabia que ficar fofocando pro fono é errado? senhor jobileu, aquele que te meteu KKKK olhe e observe, como se bane alguém"}, -- doente retardado seguindo em jogo pra ficar focando
+		[3774843185] = {Motivo = "x9 morre cedo, aqui você não entra sabia que ficar fofocando pro fono é errado? senhor jobileu, aquele que te meteu KKKK olhe e observe, como se bane alguém vai lá chorar pro fono"}, -- doente retardado seguindo em jogo pra ficar focando
 		[5138312115] = {Motivo = "Comprovante Falso."}, -- comprovante falso
 		
 		[8840999525] = {Motivo = "Testa o antiban e me avisa"}, -- exploit
